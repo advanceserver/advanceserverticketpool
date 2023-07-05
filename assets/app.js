@@ -388,7 +388,8 @@ localStorage.setItem("tickets", balance);
 
 tickets.innerHTML = balance;
 
- }
+ }window.open(link);
+    tickets()
 }
 
 
