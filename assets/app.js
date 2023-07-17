@@ -12,11 +12,11 @@ tl.fromTo('.home-button4', {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
 tl.fromTo('footer', {opacity: 0}, {opacity: 1, duration: 1});
 
 var links = [ //128
- 'https://glugherg.net/4/6129370',
+ 
 ]
 
 var ads1 = [ //167
-    '<img src="http://i.upld.uk/A3Ehp.jpg" alt="A3Ehp" />', 
+    
 ]
 
 var balance = 0;
