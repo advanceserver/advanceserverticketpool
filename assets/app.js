@@ -412,7 +412,7 @@ add.innerHTML = 'You have no tickets, please contact your team leader to access 
   window.open(link);
     tickets();
 } 
-function open_chatbox2() {
+function open_chatbox1() {
     remove_section();
     remove_nav();
     var add = document.getElementById("add-section");
