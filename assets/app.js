@@ -12,10 +12,7 @@ tl.fromTo('.home-button4', {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
 tl.fromTo('footer', {opacity: 0}, {opacity: 1, duration: 1});
 
 var links = [ //128
- 
- 'https://cdndn.com/srv.html?id=5527801&pub=2556420',
-  'https://cdndn.com/srv.html?id=5528971&pub=2556420', 
-  'https://cdndn.com/srv.html?id=5527801&pub=2556420', 
+ 'https://glugherg.net/4/6129370',
 ]
 
 var ads1 = [ //167
