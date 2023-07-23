@@ -127,7 +127,7 @@ function open_earn() {
 
 function tickets() {
     var add = document.getElementById("earn_balance");
-    balance = balance + 2;
+    balance = balance + 3;
     localStorage.setItem("tickets", balance);
     add.innerHTML = balance;
     setTimeout(() => {tickets();}, 15000);
